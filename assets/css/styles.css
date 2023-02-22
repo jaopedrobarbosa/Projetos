@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+h1, h2 {
+    color: white;
+    font-family: tahoma;
+}
+
+button {
+    padding: 10px;
+}
+
+span {
+    color: white;
+}
